@@ -96,7 +96,7 @@ public class MainActivity extends AppCompatActivity {
 
                 runOnUiThread(()->{
                     clearFields();
-                    loadStudents();
+                    loadStudents();//
                 });}
         );
 
